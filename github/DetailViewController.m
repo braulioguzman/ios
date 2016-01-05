@@ -7,7 +7,7 @@
 //
 
 #import "DetailViewController.h"
-
+//braulio modifcacion
 @interface DetailViewController ()
 
 @end
